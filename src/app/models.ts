@@ -1,0 +1,1 @@
+export interface Crop{id:string;name:string;season:string;soil:string;water:string;fertilizer:string;pest:string;advice:string;market:string;price:number;use:string} export interface PortalData{services:string[];crops:Crop[]}
